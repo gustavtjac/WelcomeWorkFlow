@@ -1,4 +1,4 @@
-package Controller;
+package gustavo.rock.welcomeworkflow;
 
 
 import org.springframework.stereotype.Controller;
